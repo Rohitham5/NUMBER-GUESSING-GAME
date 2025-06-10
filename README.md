@@ -42,3 +42,4 @@ A "Show Leaderboard" button opens a new window showing the top 10 scores. The le
 
 ## OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/8fad988b-4137-4a74-b938-506347c6c40d)
